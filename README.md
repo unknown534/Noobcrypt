@@ -26,7 +26,7 @@
 ### 📦 Instalasi Dependensi
 
 ```bash
-pip install pycryptodome
+pip3 install -r requirements.txt
 
 ▶️ Menjalankan
 
