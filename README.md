@@ -27,10 +27,10 @@
 
 ```bash
 git clone https://github.com/unknown534/Noobcrypt.git
-cd Noobcrypt
-pip3 install -r requirements.txt
 
-▶️ Menjalankan
+cd Noobcrypt
+
+pip3 install -r requirements.txt
 
 python3 tool.py
 
