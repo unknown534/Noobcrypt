@@ -26,6 +26,8 @@
 ### 📦 Instalasi Dependensi
 
 ```bash
+git clone https://github.com/unknown534/Noobcrypt.git
+
 pip3 install -r requirements.txt
 
 ▶️ Menjalankan
