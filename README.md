@@ -1,6 +1,6 @@
 # 🔐 Noobcrypt
 
-**Noobcrypt** adalah alat enkripsi dan dekripsi berbasis Python (CLI) yang ringan dan sederhana, mendukung algoritma AES dan Blowfish, serta mode CBC dan ECB. Dirancang untuk pengguna awam (noob friendly) namun tetap kuat untuk penggunaan offline.
+**Noobcrypt** adalah alat enkripsi dan dekripsi open source berbasis Python (CLI) yang ringan dan sederhana, mendukung algoritma AES dan Blowfish, serta mode CBC dan ECB. Dirancang untuk pengguna awam (noob friendly) namun tetap kuat untuk penggunaan offline.
 
 ---
 
