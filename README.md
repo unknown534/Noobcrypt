@@ -84,6 +84,6 @@ baris kedua
 📁 Struktur File
 
 .
-├── tool.py         # Skrip utama CLI
-├── README.md       # Dokumentasi proyek
-
+├── tool.py          # Skrip utama CLI
+├── requirements.txt # Dependensi
+├── README.md        # Dokumentasi proyek
