@@ -32,7 +32,7 @@ cd Noobcrypt
 
 pip3 install -r requirements.txt
 
-python3 tool.py
+python3 ncrypt.py
 
 
 ---
